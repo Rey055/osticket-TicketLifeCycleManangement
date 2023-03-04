@@ -80,7 +80,7 @@ since all of this is done we need to configure our agents, to allow them to resp
 <img src="https://i.imgur.com/mPaQ6jd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-its time to setup our test users to ensure our ticketing system is in working condition. To do this wee need to create test users. to create these, click on the upper right and switch to agent panel. Once your there click on user tab then click on add user. we will be adding one, for this example, named joe. We will need to add an email, password and Name for our user. 
+its time to setup our test users to ensure our ticketing system is in working condition. To do this wee need to create test users. to create these, click on the upper right and switch to agent panel. Once your there click on user tab then click on add user. we will be adding one, for this example, named jane. We will need to add an email, password and Name for our user. 
 </p>
 <br />
 
@@ -97,15 +97,28 @@ Now it's time to set our SLA. it is located in the admin panel, mange sub menu, 
 Latly, But not least, we nned to add some helptopic area, so our users will be able to troubleshoot and see possible solutions. Solutions for issues that have already been solved and such.It located within the same tab of manage, click on help topics and then add new help topic. for "Password recovery" and "business critical outage."</p>
 <br />
 
-<img src="https://i.imgur.com/c66Wt0U.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/GCyqPlC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p> 
-Now time to test our user. For this they need to use this link. http://localhost/osTicket/ . We will use this link to connect our joe user to file a ticket for us to fix.
+Now time to test our user. For this they need to use this link. http://localhost/osTicket/ . We will use this link to connect our jane user to file a ticket for us to fix. So joe needs to click open new ticket. Once there he has to type out his issue. In this case the business software is not opening for anyone. So this is going to go to the business admin nad they have delagate it to an agent. The admin will find this ticket in the ticket sub menu.
 <p>
-  
   
 </p>
 <br />
 
+
+<img src="https://i.imgur.com/pyhLfqt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+The admin can view the ticket and set its attributes, such as SLA level, prioty, status, and who it will be assigned . </p>
+<br />
+
+
+
+<img src="https://i.imgur.com/Y8O6RCg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Now jane has the assigned order. They our now informing our client for technical help. and if the permissions allow,  they can close the ticket making it resloved, for the time being.</p>
+<br />
 
 
 
