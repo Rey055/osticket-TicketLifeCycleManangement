@@ -71,7 +71,7 @@ We need to enable tickets to be submitted by users. This is perhaps one of the m
 <br />
 
 <p>
-<img src="https://imgur.com/a/WQ0znyG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/jfDt4jW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 since all of this is done we need to configure our agents, to allow them to respond to client tickets to give feedback and technical advise. Then we return to the agent panel. We then head over to users sub menu we then click add new. Here wer are gonna add two agents one Jane and one Ken.
