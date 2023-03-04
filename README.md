@@ -39,7 +39,7 @@ First we start with our freshly installed osTicket agent dashboardpage. Here we 
 <br />
 
 <p>
-<img src="https://imgur.com/512sQ5k" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/512sQ5k.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Now we wil have to confiure our roles. First, we will creat our admin role. On the upper right be sure to click on admin panel. Once this clicked
