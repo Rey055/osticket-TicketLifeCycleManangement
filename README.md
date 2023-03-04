@@ -31,7 +31,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="(https://imgur.com/gallery/sGC5K8G)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/x71ivC4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 First we start with our freshly installed osTicket agent dashboardpage. Here we have many Options first we want to set up our ticket systems, roles, teams, SLA's etc.
