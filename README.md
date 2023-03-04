@@ -50,31 +50,31 @@ Now we wil have to confiure our roles. First, we will creat our admin role. On t
 <img src="https://i.imgur.com/FwLQmtQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Now we will create our department. To do this its still whith inn the admin panel, right next to the roles sub tab, to the right. Once you click on dpeartment sub tab. click create addd new department. In my example it will be named System Administrators.
+Now we will create our department. To do this its still whith inn the admin panel, right next to the roles sub tab, to the right. Once you click on dpeartment sub tab. click create addd new department. In my example it will be named System Administrators. On this department creation screen, you set various things, such as what SLA, to assign to it, Its schdule, its manager, etc. 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Cre9R5z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Now we will need to create a team or teams. This is located in the same agent panel. Its located in the teams icon. Now a similar menu related to the other two tabs is presented.We will be creating two teams, One support Level 1 and support Level 2. So for any of them be sure give it an apporiate name. whith in this menu you can give it its own status either closed or open, what lead is for each team, and the members a part of the team.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vMrAieA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+We need to enable tickets to be submitted by users. This is perhaps one of the most importsnt feature to ensure it's created. This is found in the settings tab then sub tab of user settings. Be very sure to have Registration Required is checked. So tickets can be logged and easier to organize and keep track of.
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/a/WQ0znyG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+since all of this is done we need to configure our agents, to allow them to respond to client tickets to give feedback and technical advise. Then we return to the agent panel. We then head over to users sub menu we then click add new. Here wer are gonna add two agents one Jane and one Ken.
 </p>
 <br />
 
