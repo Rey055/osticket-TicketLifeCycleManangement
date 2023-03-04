@@ -96,3 +96,17 @@ Now it's time to set our SLA. it is located in the admin panel, mange sub menu, 
 <p>
 Latly, But not least, we nned to add some helptopic area, so our users will be able to troubleshoot and see possible solutions. Solutions for issues that have already been solved and such.It located within the same tab of manage, click on help topics and then add new help topic. for "Password recovery" and "business critical outage."</p>
 <br />
+
+<img src="https://i.imgur.com/c66Wt0U.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p> 
+Now time to test our user. For this they need to use this link. http://localhost/osTicket/ . We will use this link to connect our joe user to file a ticket for us to fix.
+<p>
+  
+  
+</p>
+<br />
+
+
+
+
+
