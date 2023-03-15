@@ -32,7 +32,7 @@
 <img src="https://i.imgur.com/x71ivC4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-First we start with our freshly installed osTicket agent dashboardpage. Here we have many Options first we want to set up our ticket systems, roles, teams, SLA's etc.
+First we start with our freshly installed osTicket agent dashboard page. Here we have many Options first we want to set up our ticket systems, roles, teams, SLA's etc.
 </p>
 <br />
 
@@ -40,7 +40,7 @@ First we start with our freshly installed osTicket agent dashboardpage. Here we 
 <img src="https://i.imgur.com/512sQ5k.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Now we wil have to confiure our roles. First, we will creat our admin role. On the upper right be sure to click on admin panel. Once there click on the agent tab. once on here click on the roles sub menu. once here Name your role and add your preferred permissions. In this example a Supreme Admin role was created, this role has all permmissions from answer tickets, editing them and closing them. 
+Now we wil have to confihure our roles. First, we will creat our admin role. On the upper right be sure to click on admin panel. Once there click on the agent tab. once on here click on the roles sub menu. once here Name your role and add your preferred permissions. In this example a Supreme Admin role was created, this role has all permmissions, from answer ingtickets, editing them and closing them. 
 </p>
 <br />
 
